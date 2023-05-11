@@ -5,6 +5,4 @@ When a device on the source network wants to communicate with a device on one of
 
 The router uses a routing table to determine the best path for the packet to take, based on factors such as network topology, routing protocols, and network congestion. Once the router has determined the appropriate output interface for the packet, it forwards the packet out of that interface towards the destination network.
 
-In addition to its routing capabilities, the router may also provide additional features such as network address translation (NAT), quality of service (QoS), virtual private network (VPN) support, and firewall protection.
-
 Overall, a router with one source and three destinations is a useful tool for connecting multiple networks together and enabling devices on those networks to communicate with each other. It plays an important role in enabling modern computer networks to function effectively and efficiently.
